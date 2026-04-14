@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "animal",
+            "cwd": "animal",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "conta",
+            "cwd": "conta",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "estoque",
+            "cwd": "estoque",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "idademotorista",
+            "cwd": "idademotorista",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "maioridade",
+            "cwd": "maioridade",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mesesano",
+            "cwd": "mesesano",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "notas",
+            "cwd": "notas",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "receitas",
+            "cwd": "receitas",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "saldo",
+            "cwd": "saldo",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
